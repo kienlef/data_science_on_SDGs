@@ -20,3 +20,7 @@ The course is divided into 5 sections:
 * Additional information for your next step and possible contribution.
 
 The course's overall objective is to give you a quick start in data science practice and inspire you to contribute towards our joint SDG goals.
+
+The data sets are from:
+Our world in data: https://github.com/owid
+UN SDGs: https://sdgs.un.org/goals
