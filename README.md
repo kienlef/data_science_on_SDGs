@@ -1,4 +1,4 @@
-# data_science_on_SDGs
+# Data Science on Sustainable Development Goals (SDGs)
 Udemy Online Course Material: Data Science on Sustainable Development Goals
 
 https://bit.ly/data_science_on_SDGs
