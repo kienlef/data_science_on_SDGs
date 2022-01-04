@@ -3,7 +3,7 @@ Udemy Online Course Material: Data Science on Sustainable Development Goals
 
 https://bit.ly/data_science_on_SDGs
 
-The Sustainable Development Goals (SDGs) are 17 global goals designed to be a "blueprint for achieving a better and more sustainable future for all". The goals to be achieved by 2030 are an urgent call for action by all countries - and us all.
+The Sustainable Development Goals (SDGs) are 17 global goals designed to be a "blueprint for achieving a better and more sustainable future for all". The goals to be achieved by 2030 are an urgent call for action by all countries - and us all. (https://sdgs.un.org/goals)
 
 The course highlights the sustainable development goals (SDG) and analyzes the SDG indicators that track the current global status.
 
